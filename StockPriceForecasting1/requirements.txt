@@ -1,0 +1,3 @@
+pystan
+prophet
+pandas-datareader
